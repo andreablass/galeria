@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ColeccionHomogenea<Galeria_e6a0ae16>",
+            "request": "launch",
+            "mainClass": "ColeccionHomogenea",
+            "projectName": "Galeria_e6a0ae16"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Colecciones<Galeria_e6a0ae16>",
+            "request": "launch",
+            "mainClass": "Colecciones",
+            "projectName": "Galeria_e6a0ae16"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Disquera<Galeria_e6a0ae16>",
+            "request": "launch",
+            "mainClass": "Disquera",
+            "projectName": "Galeria_e6a0ae16"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Galeria<Galeria_e6a0ae16>",
+            "request": "launch",
+            "mainClass": "Galeria",
+            "projectName": "Galeria_e6a0ae16"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UsarDiscos<Galeria_e6a0ae16>",
+            "request": "launch",
+            "mainClass": "UsarDiscos",
+            "projectName": "Galeria_e6a0ae16"
+        }
+    ]
+}
